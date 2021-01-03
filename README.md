@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Algorithm
+- 💬 Ask me about anything: [@Email to CoderTh](mailto:CoderTH@outlook.com).
+- 📫 How to reach me: [@Telegram to CoderTh](https://CoderTh.cn).
 <!--
 **CoderTH/CoderTh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
