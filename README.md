@@ -1,5 +1,5 @@
-<a href="https://github.com/coder2z?tab=repositories">
-  <img align="right" src="https://github-readme-stats.myxy99.vercel.app/api?username=coder2z&show_icons=true" width="45%" />
+<a href="https://github.com/coderth?tab=repositories">
+  <img align="right" src="https://github-readme-stats.coderth.vercel.app/api?username=coderth&show_icons=true" width="45%" />
   <img align="right" src="img/go.gif"/>
 </a>
 
