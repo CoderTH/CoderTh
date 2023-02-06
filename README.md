@@ -1,3 +1,4 @@
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CoderTh&show_icons=true" width="50%" />
 
 
 ### Hi there 👋
